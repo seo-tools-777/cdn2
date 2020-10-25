@@ -1,2 +1,3 @@
-# cdn2
-seo cdn2
+### jsdelivr + github
+
+https://cdn.jsdelivr.net/gh/seo-tools-777/cdn2/dir/file
